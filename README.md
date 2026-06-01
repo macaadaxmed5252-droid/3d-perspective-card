@@ -27,4 +27,4 @@
 
 1. **Soo degso (Clone) mashruucan:**
    ```bash
-  git clone [https://github.com/macaadaxmed5252-droid/3d-perspective-card.git](https://github.com/macaadaxmed5252-droid/3d-perspective-card.git)
+   git clone [https://github.com/macaadaxmed5252-droid/3d-perspective-card.git](https://github.com/macaadaxmed5252-droid/3d-perspective-card.git)
